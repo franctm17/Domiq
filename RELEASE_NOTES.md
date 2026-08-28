@@ -1,5 +1,6 @@
-## Dom-IQ v1.3.134
+## Dom-IQ v1.3.135
 
-- 🔑 Fix Dom-IQ ID che poteva cambiare all'improvviso (dopo riavvii o pulizia cache) facendo risultare la licenza non valida: ora l'identità del server è stabile e permanente
+- 🔇 Fix assistente vocale che si attivava da solo di continuo su iPhone
+- 🎙️ Wake word più precisa: niente attivazioni su parole simili, rumore o frasi in TV
 
 _Dom-IQ BETA_
